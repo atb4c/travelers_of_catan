@@ -64,7 +64,7 @@ _format for all below quantities is: base + expansion = total_
 
 ### Pieces (3D-printed)  [*ALL PIECES STL*](Pieces/catan_seafarers_all.stl)
 - [City](Pieces/catan-seafarers-expansion-pack-pieces-with-a-piece-holder/catancity.stl): 4
-- [Settlement](Pieces/catan-seafarers-expansion-pack-pieces-with-a-piece-holder/catansettlements.stl): 5
+- [Settlement](Pieces/catan-seafarers-expansion-pack-pieces-with-a-piece-holder/catansettlement.stl): 5
 - [Roads](Pieces/catan-seafarers-expansion-pack-pieces-with-a-piece-holder/catanroad.stl): 15
 - [Ships](Pieces/catan-seafarers-expansion-pack-pieces-with-a-piece-holder/catanship.stl): 15
 - [Robber-Standard](Pieces/settlers_of_catan_robber.stl): 1
