@@ -45,11 +45,11 @@ _format for all below quantities is: base + expansion = total_
 - [12](Numbers/12/): 1+1 = 2
 
 ### Special Cards (PCB):
-- [Longest_Road]("Special Cards/longest road/"): 1
-- [Largest_Army]("Special Cards/largest army"): 1
-- [Building_Costs]("Special Cards/building costs"): 6
+- [Longest_Road](SpecialCards/longest_road/): 1
+- [Largest_Army](SpecialCards/largest_army/): 1
+- [Building_Costs](SpecialCards/building_costs/): 6
 
-### [Cards](Cards/) 
+### Cards  [*FILES HERE*](Cards/) 
 - Brick: 19+5 = 24
 - Ore: 19+5 = 24
 - Sheep: 19+5 = 24
@@ -62,7 +62,7 @@ _format for all below quantities is: base + expansion = total_
 - Victory_Point: 5+0 = 5
 - blank (optional for custom cards)
 
-### Pieces (3D-printed) [ALL PIECES STL](Pieces/catan_seafarers_all.stl)
+### Pieces (3D-printed)  [*ALL PIECES STL*](Pieces/catan_seafarers_all.stl)
 - [City](Pieces/catan-seafarers-expansion-pack-pieces-with-a-piece-holder/catancity.stl): 4
 - [Settlement](Pieces/catan-seafarers-expansion-pack-pieces-with-a-piece-holder/catansettlements.stl): 5
 - [Roads](Pieces/catan-seafarers-expansion-pack-pieces-with-a-piece-holder/catanroad.stl): 15

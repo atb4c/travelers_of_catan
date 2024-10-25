@@ -1,4 +1,0 @@
-
-(fp_lib_table
-  (lib (name "largest_army_card")(type KiCad)(uri "$(KIPRJMOD)/largest_army_card.pretty")(options "")(descr ""))
-)

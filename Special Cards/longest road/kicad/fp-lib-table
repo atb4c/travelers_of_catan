@@ -1,4 +1,0 @@
-
-(fp_lib_table
-  (lib (name "longest_road_card")(type KiCad)(uri "$(KIPRJMOD)/longest_road_card.pretty")(options "")(descr ""))
-)
