@@ -1,4 +1,4 @@
-# travelers_of_catan
+# Travelers of Catan
 Travel-ready Version of Settlers of Catan using PCBs as the tiles.
 
 ![example setup](assets/ex_setup.jpg)
