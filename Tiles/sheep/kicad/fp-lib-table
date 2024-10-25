@@ -1,0 +1,4 @@
+
+(fp_lib_table
+  (lib (name "sheep_tile")(type KiCad)(uri "$(KIPRJMOD)/sheep_tile.pretty")(options "")(descr ""))
+)

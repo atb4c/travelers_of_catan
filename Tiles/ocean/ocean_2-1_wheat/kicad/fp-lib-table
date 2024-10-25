@@ -1,0 +1,4 @@
+
+(fp_lib_table
+  (lib (name "ocean_tile_wheat")(type KiCad)(uri "$(KIPRJMOD)/ocean_tile_wheat.pretty")(options "")(descr ""))
+)

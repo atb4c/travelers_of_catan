@@ -1,0 +1,4 @@
+
+(fp_lib_table
+  (lib (name "brick_tile")(type KiCad)(uri "$(KIPRJMOD)/brick_tile.pretty")(options "")(descr ""))
+)

@@ -1,0 +1,4 @@
+
+(fp_lib_table
+  (lib (name "gold_tile")(type KiCad)(uri "$(KIPRJMOD)/gold_tile.pretty")(options "")(descr ""))
+)

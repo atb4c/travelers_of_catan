@@ -1,0 +1,4 @@
+
+(fp_lib_table
+  (lib (name "desert_tile")(type KiCad)(uri "$(KIPRJMOD)/desert_tile.pretty")(options "")(descr ""))
+)

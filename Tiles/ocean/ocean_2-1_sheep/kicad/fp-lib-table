@@ -1,0 +1,4 @@
+
+(fp_lib_table
+  (lib (name "ocean_tile_sheep")(type KiCad)(uri "$(KIPRJMOD)/ocean_tile_sheep.pretty")(options "")(descr ""))
+)

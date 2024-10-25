@@ -1,0 +1,4 @@
+
+(fp_lib_table
+  (lib (name "build_costs_card")(type KiCad)(uri "$(KIPRJMOD)/build_costs_card.pretty")(options "")(descr ""))
+)
